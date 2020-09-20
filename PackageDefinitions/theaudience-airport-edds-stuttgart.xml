@@ -1,0 +1,31 @@
+<AssetPackage Name="theaudience-airport-edds-stuttgart" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>EDDS</Title>
+		<Manufacturer/>
+		<Creator>Jochen Herrmann</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\theaudience-airport-edds-stuttgart\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\theaudience-airport-edds-stuttgart</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="edds01">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

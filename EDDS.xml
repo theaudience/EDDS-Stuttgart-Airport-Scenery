@@ -1,0 +1,8 @@
+<Project Version="2" Name="EDDS" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\theaudience-airport-edds-stuttgart.xml</Package>
+	</Packages>
+</Project>
+
