@@ -5,11 +5,12 @@ Freeware Project to add the missing Stuttgart Airport to the Microsoft Flight Si
 
 ![Screenshot](images/EDDS_night.png)
 
-## Current Progress
+# Current Progress
 
 - [X] Runway
 - [X] Taxiways
 - [X] Parking Positions
+- [X] Aprons
 - [ ] Gates
 - [ ] Ground Service
 - [ ] Ground Textures
@@ -21,17 +22,23 @@ Freeware Project to add the missing Stuttgart Airport to the Microsoft Flight Si
 
 ![Screenshot](images/EDDS_wip.png)
 
-## Contribute
+# Installation
+
+1. Download the lastest release from the [release section](https://github.com/theaudience/EDDS-Stuttgart-Airport-Scenery/releases).
+2. Unzip the folder to your Microsoft Flight Simulator Community folder. Instructions on how to find the Community folder can be found [here](https://github.com/flybywiresim/a32nx#installation).
+3. Launch Microsoft Flight Simulator.
+
+# Contribute
 
 I am happy to share the "source code" of this scenery on Github and I am looking for people to contribute to it. Feel free to fork the project. It would be great if you could open an issue here and assign it to you so no one else is working on the same topic.
 
-## Default Scenery
+# Default Scenery
 
 In the default scenery of Microsoft Flight Simulator EDDS - Stuttgart Airport is missing.
 
 ![Screenshot](images/EDDS_before.png)
 
-## Licence
+# Licence
 
 Copyright (C) 2020 Jochen Herrmann
 
