@@ -1,6 +1,8 @@
 # EDDS - Stuttgart Airport
 Freeware Project to add the missing Stuttgart Airport to the Microsoft Flight Simulator 2020.
 
+*Please keep in mind. This project is work in progress. A lot of things are still missing (ILS, DME, Gates, Ground Service, ...). See the next section for details.*
+
 ![Screenshot](images/EDDS_night.png)
 
 ## Current Progress
@@ -10,6 +12,7 @@ Freeware Project to add the missing Stuttgart Airport to the Microsoft Flight Si
 - [X] Parking Positions
 - [ ] Gates
 - [ ] Ground Service
+- [ ] Ground Textures
 - [ ] Lighting
 - [ ] Painted Lines
 - [ ] Terminal Buildings
@@ -20,7 +23,7 @@ Freeware Project to add the missing Stuttgart Airport to the Microsoft Flight Si
 
 ## Contribute
 
-Creating a scenery in Microsoft Flight Simulator is a lot of work. That's why I am happy to share the "source code" of this scenery on Github. If you would like to contribute, feel free to fork the project. It would be great if you could open an issue here and assign it to you so no one else is working on the same topic.
+I am happy to share the "source code" of this scenery on Github and I am looking for people to contribute to it. Feel free to fork the project. It would be great if you could open an issue here and assign it to you so no one else is working on the same topic.
 
 ## Default Scenery
 
