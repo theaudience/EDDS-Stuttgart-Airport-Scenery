@@ -5,8 +5,22 @@ Freeware Project to add the missing Stuttgart Airport to the Microsoft Flight Si
 
 ## Current Progress
 
+- [X] Runway
+- [X] Taxiways
+- [X] Parking Positions
+- [ ] Gates
+- [ ] Ground Service
+- [ ] Lighting
+- [ ] Painted Lines
+- [ ] Terminal Buildings
+- [ ] ILS / DME
+- [ ] ATC Frequencies
+
 ![Screenshot](images/EDDS_wip.png)
 
+## Contribute
+
+Creating a scenery in Microsoft Flight Simulator is a lot of work. That's why I am happy to share the "source code" of this scenery on Github. If you would like to contribute, feel free to fork the project. It would be great if you could open an issue here and assign it to you so no one else is working on the same topic.
 
 ## Default Scenery
 
